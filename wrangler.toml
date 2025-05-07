@@ -1,0 +1,8 @@
+name = "digibazaar24-income-boost"
+compatibility_date = "2024-05-07"
+
+[build]
+command = "npm run build"
+
+[site]
+bucket = ".svelte-kit/cloudflare"
